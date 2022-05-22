@@ -39,5 +39,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- ✅ react-router-dom is updated - ✅ class components converted to functional components - ✅ components re-named",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razz1000/m5d10_Benchmark_frontend_netflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razz1000/m5d10_Benchmark_frontend_netflix/issues"
+  },
+  "homepage": "https://github.com/razz1000/m5d10_Benchmark_frontend_netflix#readme"
 }
