@@ -22,7 +22,7 @@ const BlogList = (props) => {
     <Row>
       {movieInfo.map((post) => (
         <Col
-          md={4}
+          md={5}
           style={{
             marginBottom: 50,
           }}
