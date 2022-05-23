@@ -24,7 +24,7 @@ const BlogList = (props) => {
       {movieInfo.map((post) => (
         <Col
           key={post.imdbID}
-          md={4}
+          md={3}
           style={{
             marginBottom: 50,
           }}
